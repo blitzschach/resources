@@ -1,29 +1,33 @@
 # Gnome-Dark Color Scheme
 
+```
+foreground:     #D0CFCC
+background:     #171421
+```
 
 ```
-darker
-----------
+dark
+-----------------------
 
-background:     #171421
+black:          #171421
 red:            #C01C28
 green:          #26A269
-brown:          #A2734C
+yellow:         #A2734C
 blue:           #12488B
 purple:         #A347BA
-blue-green:     #2AA1B3
+cyan:           #2AA1B3
 white:          #D0CFCC
 
-lighter
-----------
+bright
+-----------------------
 
-grey:           #5E5C64
+black:          #5E5C64
 red:            #F66151
 green:          #33D17A
 yellow:         #E9AD0C
 blue:           #2A7BDE
 purple:         #C061CB
-blue-green:     #33C7DE
+cyan:           #33C7DE
 white:          #FFFFFF
 
 ```
